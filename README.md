@@ -2,7 +2,7 @@
 
 
 
-- 📚 Estudiante de Ingenieria en sistemas y Desarollo web
+- 📚 Estudiante de Ingenieria en sistemas y Desarollo web en CODER HOUSE
 - ⚡ Podes ver algunos de mis Proyectos en los que estoy Trabajando
 - 📫 Contactate a traves de mi email: diegooliverautn@gmail.com
 
