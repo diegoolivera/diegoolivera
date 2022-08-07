@@ -1,12 +1,5 @@
 ### Hola👋 Mi nombre es Diego Olivera
 
-
-
-- 📚 Estudiante de Ingenieria en sistemas y Desarollo web full-stack en CODER HOUSE
-- ⚡ Podes ver algunos de mis Proyectos en los que estoy Trabajando
-- 📫 Contactate a traves de mi email: diegooliverautn@gmail.com
-
-
 <hr>
 <hr>
 
